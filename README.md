@@ -16,8 +16,8 @@
 
 ## Links
 
-* [Deployed Link](https://gamebuy143.herokuapp.com/)
-* [GitHub Repository](https://github.com/GTN-git/GameBuy)
+* [Deployed Link](https://gamebuy-light.herokuapp.com/)
+* [GitHub Repository](https://github.com/hsengu/GameBuy)
 
 ---
 
@@ -43,6 +43,8 @@
 - Javascript
 - Jest
 - bcrypt
+- Amazon API Gateway
+- CORSAnywhere
 
   ---
 
